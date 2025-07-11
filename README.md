@@ -1,4 +1,4 @@
-# Robotic-Food-Transfer-System-3D-Model-
+# Robotic-Food-Transfer-System-3D-Model
 
 ## 📌 Project Overview
 This project presents a 3D design of a robotic arm system capable of transferring food packages from a manual or semi-automated warehouse to a fully automated one without human interaction. The design was created using Tinkercad, focusing on mechanical design and spatial simulation (without electronic components).
